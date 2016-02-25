@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\WISHMATCHER04\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\WISHMATCHER04\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\WISHMATCHER04\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\wmicon.png",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\WISHMATCHER04\\app\\src\\main\\res\\mipmap-hdpi\\wmicon.png"
+    }
+]
