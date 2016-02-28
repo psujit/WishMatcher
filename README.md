@@ -50,6 +50,10 @@ To access the WebService use some RESTClient(e.g. Advanced RESTClient is a plugi
   "request" : "your search string"
 }
 This would return a list of JSON objects of matching records.
-Each of these JSON objects have a product header and a url to access the Craigslist page for that product.
+
+{
+    "product" : "88-91 Honda Civic CRX Parts"
+    "url" : "http://sfbay.craigslist.org/eby/pts/5393876603.html"
+}
 
 In order to integrate it with the Android application, we have to either deploy it on a server or expose the port 8080 using tunneling like NGROK and then update the webservice url in MainActivity.java file in the WISHMATCHER04 project folder to the url of your server.
