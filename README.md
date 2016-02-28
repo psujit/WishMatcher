@@ -30,9 +30,9 @@ These instructions assume that you do not already have Python installed on your 
 
 Once you have NLTK installed, download the NLTK Data using:
 
--->import nltk
+>>>import nltk
 
--->nltk.download()
+>>>nltk.download()
 
 For running the webservices, we need to ensure that we have the corpus for WordNet in the corpora folder.
 Also, you will find the folder stanford-ner-2014-08-27 in the project folder. Copy the folder in nltk_data/taggers.
