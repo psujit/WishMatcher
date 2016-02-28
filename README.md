@@ -29,7 +29,9 @@ These instructions assume that you do not already have Python installed on your 
 4) Test installation: Start>Python34, then type import nltk
 
 Once you have NLTK installed, download the NLTK Data using:
+
 -->import nltk
+
 -->nltk.download()
 
 For running the webservices, we need to ensure that we have the corpus for WordNet in the corpora folder.
