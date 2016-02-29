@@ -56,4 +56,4 @@ This would return a list of JSON objects of matching records.
     "url" : "http://sfbay.craigslist.org/eby/pts/5393876603.html"
 }
 
-In order to integrate it with the Android application, we have to either deploy it on a server or expose the port 8080 using tunneling like NGROK and then update the webservice url in MainActivity.java file in the WISHMATCHER04 project folder to the url of your server.
+In order to integrate it with the Android application, we have to either deploy it on a server or expose the port 8080 using tunneling like NGROK and then update the webservice url in MainActivity.java file in the WISHMATCHER project folder to the url of your server.
